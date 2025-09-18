@@ -1,6 +1,4 @@
-# Netflix movies and tv shows data analysis using sql
-
-[NETFLIK LOGO]()
+# Netflix movies and tv shows data analysis using sqL
 
 
 
